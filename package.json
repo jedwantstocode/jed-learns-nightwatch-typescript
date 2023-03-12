@@ -1,0 +1,24 @@
+{
+  "name": "jed-learns-nightwatch-typescript",
+  "version": "1.0.0",
+  "description": "update later",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwantstocode/jed-learns-nightwatch-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedwantstocode/jed-learns-nightwatch-typescript/issues"
+  },
+  "homepage": "https://github.com/jedwantstocode/jed-learns-nightwatch-typescript#readme",
+  "devDependencies": {
+    "chromedriver": "^111.0.0",
+    "nightwatch": "^2.6.17"
+  }
+}
